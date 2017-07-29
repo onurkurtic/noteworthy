@@ -1,0 +1,28 @@
+[25-Jul-2017 16:42:27 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/sarahvau/public_html/Test/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/index.php on line 4
+[25-Jul-2017 16:42:42 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/sarahvau/public_html/Test/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/index.php on line 4
+[25-Jul-2017 16:42:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/sarahvau/public_html/Test/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/index.php on line 4
+[25-Jul-2017 16:42:44 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/sarahvau/public_html/Test/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/index.php on line 4
+[25-Jul-2017 16:43:06 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect_error() in /home/sarahvau/public_html/Test/index.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/index.php on line 4
+[26-Jul-2017 16:56:17 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/sarahvau/public_html/Test/index.php on line 16
+[26-Jul-2017 18:31:12 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function array_key_exsts() in /home/sarahvau/public_html/Test/loggedinpage.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/sarahvau/public_html/Test/loggedinpage.php on line 6
+[27-Jul-2017 16:09:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sarahvau/public_html/Test/index.php on line 123
+[27-Jul-2017 16:09:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/sarahvau/public_html/Test/index.php on line 123
+[27-Jul-2017 16:10:33 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/sarahvau/public_html/Test/index.php on line 210
